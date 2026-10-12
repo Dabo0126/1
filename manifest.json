@@ -1,0 +1,19 @@
+{
+  "name": "大博的工作台",
+  "short_name": "大博",
+  "description": "工作、学习、打扫、记账、运动、喝水，一天要用的都在这儿",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f0f6fc",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
